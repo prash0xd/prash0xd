@@ -32,7 +32,9 @@ I started my journey into the world of cybersecurity with a strong curiosity to 
   
 ## TryHackMe Badge 🏅
 
-![TryHackMe Badge](https://tryhackme.com/badge/1153910)
+![TryHackMe Badge]([https://tryhackme.com/badge/1153910](https://assets.tryhackme.com/img/thm_logo_only.svg))
+![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/Sneckey0Day.png)
+
 
 ## GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=prash0xd&show_icons=true&theme=dark)
