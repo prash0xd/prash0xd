@@ -27,7 +27,7 @@ I started my journey into the world of cybersecurity with a strong curiosity to 
 
 ## Certificates and Achievements
 - [Certified AppSec Practitioner (CAP)](CertifiedAppSecPractitioner.jpg)
-- [TryHackMe](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-IJXFUIPNA1.png)
+- [Jr Penetration Tester - TryHackMe](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-IJXFUIPNA1.png)
 
   
 ## TryHackMe Badge 🏅
