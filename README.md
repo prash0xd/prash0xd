@@ -35,7 +35,5 @@
 ## Contact Information
 - ✉️ Email: codewithprash.business@gmail.com
 - 📷 Instagram: [@codewithprash_](https://www.instagram.com/codewithprash_/)
-- 🌐 LinkedIn: [linkedin.com/in/johndoe]([https://www.linkedin.com/in/johndoe](https://www.linkedin.com/in/c0dewithprash/))
-- 🐦 Twitter: [@johndoe]([https://twitter.com/johndoe](https://twitter.com/code_with_prash))
-
-&copy; 2023 John Doe - Cybersecurity Professional
+- 🌐 LinkedIn: [Prashant Kumar]([https://www.linkedin.com/in/johndoe](https://www.linkedin.com/in/c0dewithprash/))
+- 🐦 Twitter: [Codewithprash]([https://twitter.com/johndoe](https://twitter.com/code_with_prash))
