@@ -1,9 +1,20 @@
-# Cybersecurity Profile
+# Welcome Myself Prashant Kumar 👨‍💻🔒
+<p align="center"><img src="https://user-images.githubusercontent.com/49580304/110318584-81067880-7fc2-11eb-8391-152d308e7f2b.gif" alt="Bt">
 
-![Profile Picture](cybersecurity-profile-pic.jpg)
+## About Me 🕵️‍♂️
 
-## About Me
-👋 Hi there! I'm a passionate 💻 **cybersecurity professional** with a broad focus on all three branches of cybersecurity: Blue Team (defense), Red Team (offense), and Digital Forensics. My passion lies in securing digital assets, conducting ethical hacking, and investigating cyber incidents. I'm committed to making cyberspace safer for individuals and organizations.
+Hello there! I am a passionate Cybersecurity student with a keen interest in Red Teaming and CTF challenges. I love exploring various aspects of cybersecurity, analyzing vulnerabilities, and crafting creative solutions to secure systems. Here's an introduction to my cybersecurity journey, showcasing my passion, accomplishments, and projects.
+
+## My Journey 🚀
+
+I started my journey into the world of cybersecurity with a strong curiosity to understand how attackers think and how to defend against them. Through countless hours of learning, experimenting, and participating in various Capture The Flag (CTF) challenges, I've honed my skills and gained valuable experience.
+
+## My Interests 🛡️
+
+- Red Teaming: I am fascinated by the offensive side of cybersecurity, where I get to simulate real-world attacks to identify and strengthen vulnerabilities.
+- Capture The Flag (CTF): Solving CTF challenges has been my favorite pastime. I enjoy the thrill of cracking codes, solving puzzles, and overcoming complex cybersecurity challenges.
+- OSINT (Open Source Intelligence): I have a keen interest in gathering intelligence from publicly available sources to better understand potential threats and enhance cybersecurity measures.
+- Digital Investigation: I am intrigued by the process of investigating digital incidents and conducting forensic analysis to uncover evidence for security incidents.
 
 ## Skills
 - 💬 **Bash Scripting**
@@ -13,24 +24,22 @@
 - 🕵️ **Digital Forensics**
 - 🚨 **Incident Response**
 - 🔐 **Penetration Testing**
-- 🔍 **Security Auditing**
-- 📡 **Firewall Configuration**
 
 ## Certificates and Achievements
 - [Certified Information Systems Security Professional (CISSP)](https://example.com/cissp-certificate)
-  ![CISSP Certificate](certificate-images/cissp-certificate.png)
-- [Certified Ethical Hacker (CEH)](https://example.com/ceh-certificate)
-  ![CEH Certificate](certificate-images/ceh-certificate.png)
-- [CompTIA Security+](https://example.com/security-plus-certificate)
-  ![Security+ Certificate](certificate-images/security-plus-certificate.png)
-- [TryHackMe](https://tryhackme.com/p/your-username)
+- [TryHackMe](https://tryhackme.com/p/codewithprash)
   - Total Points: 1000
   - Completed Rooms: 20
   - CTF Wins: 5
-  - [View Profile](https://tryhackme.com/p/your-username)
+  - [View Profile](https://tryhackme.com/p/codewithprash)
+
+  
+## TryHackMe Badge 🏅
+
+![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/codewithprash.png)
 
 ## GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-prash0xd&show_icons=true&theme=dark)
 
 ## Contact Information
 - ✉️ Email: codewithprash.business@gmail.com
