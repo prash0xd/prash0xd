@@ -41,5 +41,5 @@ I started my journey into the world of cybersecurity with a strong curiosity to 
 ## Contact Information
 - ✉️ Email: codewithprash.business@gmail.com
 - 📷 Instagram: [@codewithprash_](https://www.instagram.com/codewithprash_/)
-- 🌐 LinkedIn: [Prashant Kumar]([https://www.linkedin.com/in/johndoe](https://www.linkedin.com/in/c0dewithprash/))
-- 🐦 Twitter: [Codewithprash]([https://twitter.com/johndoe](https://twitter.com/code_with_prash))
+- 🌐 LinkedIn: [Prashant Kumar](https://www.linkedin.com/in/johndoe](https://www.linkedin.com/in/c0dewithprash/))
+- 🐦 Twitter: [Codewithprash](https://twitter.com/johndoe](https://twitter.com/code_with_prash))
