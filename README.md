@@ -26,7 +26,7 @@ I started my journey into the world of cybersecurity with a strong curiosity to 
 - 🔐 **Penetration Testing**
 
 ## Certificates and Achievements
-- [Certified AppSec Practitioner (CAP)](https://github.com/prash0xd/prash0xd/blob/main/CertifiedAppSecPractitioner.jpg)
+- [Certified AppSec Practitioner (CAP)](CertifiedAppSecPractitioner.jpg)
 - [TryHackMe](https://tryhackme.com/p/codewithprash)
 
   
