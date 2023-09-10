@@ -39,7 +39,7 @@ I started my journey into the world of cybersecurity with a strong curiosity to 
 ![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/codewithprash.png)
 
 ## GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-prash0xd&show_icons=true&theme=dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=prash0xd&show_icons=true&theme=dark)
 
 ## Contact Information
 - ✉️ Email: codewithprash.business@gmail.com
