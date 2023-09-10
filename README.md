@@ -27,8 +27,7 @@ I started my journey into the world of cybersecurity with a strong curiosity to 
 
 ## Certificates and Achievements
 - [Certified Information Systems Security Professional (CISSP)](https://example.com/cissp-certificate)
-- [TryHackMe (Jr Penetration Tester)]([https://tryhackme.com/p/codewithprash](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-IJXFUIPNA1.png))
-- [View Profile](https://tryhackme.com/p/codewithprash)
+- [TryHackMe](https://tryhackme.com/p/codewithprash)
 
   
 ## TryHackMe Badge 🏅
