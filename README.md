@@ -26,7 +26,7 @@ I started my journey into the world of cybersecurity with a strong curiosity to 
 - 🔐 **Penetration Testing**
 
 ## Certificates and Achievements
-- [Certified Information Systems Security Professional (CISSP)](https://example.com/cissp-certificate)
+- [Certified AppSec Practitioner (CAP)](https://github.com/prash0xd/prash0xd/blob/main/CertifiedAppSecPractitioner.jpg)
 - [TryHackMe](https://tryhackme.com/p/codewithprash)
 
   
