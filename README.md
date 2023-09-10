@@ -32,8 +32,7 @@ I started my journey into the world of cybersecurity with a strong curiosity to 
   
 ## TryHackMe Badge 🏅
 
-![TryHackMe Badge](https://tryhackme-images.s3.amazonaws.com/user-avatars/95bd45e9d93722af18455e658bd932db.jpg)
-![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/Sneckey0Day.png)
+![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/codewithprash.png)
 
 
 ## GitHub Stats
